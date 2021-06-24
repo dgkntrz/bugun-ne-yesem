@@ -90,7 +90,7 @@ function App() {
 
   if (x == 0) {
     const params = { filters: "temel-meyve-alkol-gazlı-tatlıiçecek-kahve-çay-", count: maksimumYemek + "" };
-    axios.post('https://172.105.247.10:8080/filtersicecek', params)
+    axios.post('http://172.105.247.10:8080/filtersicecek', params)
       .then(function (response) {
 
         default_list = response.data.toString().split("/");
