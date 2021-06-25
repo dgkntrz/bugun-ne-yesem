@@ -277,7 +277,7 @@ function App() {
               step={1}
               marks
               min={2}
-              max={12}
+              max={8}
               valueLabelDisplay="auto"
             />
           </div>
