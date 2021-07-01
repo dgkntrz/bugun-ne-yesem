@@ -252,7 +252,7 @@ function App() {
             </div>
 
           </fieldset>
-          <div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div>
+          <div style={{paddingTop:"25em"}}></div>
           <div>
             <label id="discrete-slider-small-steps" className="textstyle">
               Maksimum Yemek Miktarı

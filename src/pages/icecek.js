@@ -261,7 +261,7 @@ function App() {
               <label className="textstyle" for="yemek6">Çay</label>
             </div>
           </fieldset>
-          <div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div>
+          <div style={{paddingTop:"20em"}}></div>
           <div>
             <label id="discrete-slider-small-steps" className="textstyle">
               Maksimum İçecek Miktarı

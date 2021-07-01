@@ -7,20 +7,20 @@ import axios from 'axios';
 function App() {
     return (
         <div>
-            <div>&ensp;</div><div>&ensp;</div>
+            <div style={{paddingTop:"2em"}}></div>
             <header className="navbarheader">Herhangi bir hatayla karşılaştığınızda veya önerilerinizi paylaşmak amacıyla bize ulaşmak için <b>dogukanterzi@gmail.com</b> <br></br> adresine mail atabilir ya da aşağıdaki alanı kullanarak bize mesaj gönderebilirsiniz!</header>
-            <div>&ensp;</div><div>&ensp;</div>
+            <div style={{paddingTop:"2em"}}></div>
             <textarea placeholder="İsminiz" id="textAreaID2" style={{ width: "300px", height: "20px" }}>
             </textarea>
-            <div>&ensp;</div>
+            <div style={{paddingTop:"1em"}}></div>
             <textarea placeholder="Geri Bildiriminiz" id="textAreaID" style={{ width: "300px", height: "300px" }}>
             </textarea>
-            <div>&ensp;</div><div>&ensp;</div>
+            <div style={{paddingTop:"2em"}}></div>
             <button className="gonderbutton" onClick={buttonClickEvent}>Gönder!</button>
-            <div>&ensp;</div><div>&ensp;</div>
-            <div>&ensp;</div><div>&ensp;</div>
+            <div style={{paddingTop:"2em"}}></div>
+            <div style={{paddingTop:"2em"}}></div>
             <header className="navbarheader">Referanslar</header>
-            <div>&ensp;</div>
+            <div style={{paddingTop:"2em"}}></div>
             Seçim tekerleği:
             <div></div>
             F. Frankie. (2020, July 19). Make a lucky wheel to solve your lunch dilemma by using react and react-spring. Medium. https://frankie95.medium.com/make-a-lucky-wheel-to-solve-your-lunch-dilemma-by-using-react-and-react-spring-29b611a5aaed

@@ -215,7 +215,7 @@ function App() {
             </div>
             
           </fieldset>
-          <div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div><div>&ensp;</div>
+          <div style={{paddingTop:"30em"}}></div>
           <div>
             <label id="discrete-slider-small-steps" className="textstyle">
               Maksimum Tatlı Miktarı
